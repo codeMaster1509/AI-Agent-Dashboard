@@ -43,7 +43,7 @@ pip install streamlit pandas beautifulsoup4 google-auth google-api-python-client
 
 3. Run the application:
 ```bash
-streamlit run app.py
+streamlit run agent.py
 ```
 
 ## Usage Guide
