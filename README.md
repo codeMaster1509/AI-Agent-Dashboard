@@ -3,6 +3,8 @@
 ## Project Summary
 The AI Agent Dashboard is a Streamlit-based web application that automates the process of gathering and analyzing information from web searches using AI. The application allows users to process lists of entities (from CSV files or Google Sheets), perform web searches for each entity, and then analyze the search results using the Groq LLM API to extract structured information.
 
+Link to the Loom's Video: https://www.loom.com/share/dbd87b43c1d34973b7841723d58f54b6?sid=fdf90e7d-6c5c-49d1-be5d-6f8c21aee372
+
 ## Key Features
 - Data input flexibility (CSV or Google Sheets)
 - Automated web searching using ScraperAPI
